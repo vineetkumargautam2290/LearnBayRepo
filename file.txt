@@ -1,0 +1,3 @@
+this is thenew file.
+added few lines
+to test something
